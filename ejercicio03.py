@@ -17,3 +17,4 @@ if r!=1:
 
 else :
     Sn = a1*n
+    print(Sn)
